@@ -1,0 +1,52 @@
+[
+  {
+    "question": "wfh rules?",
+    "expected_chunk_id": "C17",
+    "hypothetical_answer": "Employees may work remotely under a flexible work arrangement, with schedules and approval depending on role requirements."
+  },
+  {
+    "question": "notice period",
+    "expected_chunk_id": "C18",
+    "hypothetical_answer": "A departing employee should provide advance written notice before their resignation takes effect."
+  },
+  {
+    "question": "sick days?",
+    "expected_chunk_id": "C19",
+    "hypothetical_answer": "Employees who are ill may use paid sick leave and should notify their manager when they cannot work."
+  },
+  {
+    "question": "parental leave",
+    "expected_chunk_id": "C20",
+    "hypothetical_answer": "A new parent may take paid time away from work after a birth or adoption under the company's leave policy."
+  },
+  {
+    "question": "meal cap?",
+    "expected_chunk_id": "C02",
+    "hypothetical_answer": "Business travel food costs are reimbursed according to the company's general spending and expense rules."
+  },
+  {
+    "question": "401k match?",
+    "expected_chunk_id": "C04",
+    "hypothetical_answer": "An employer may add money to a worker's retirement savings plan based on eligible employee contributions."
+  },
+  {
+    "question": "privacy officer?",
+    "expected_chunk_id": "C05",
+    "hypothetical_answer": "Customer records are retained according to a schedule maintained by Legal and Compliance, which handles data governance requests."
+  },
+  {
+    "question": "report a breach",
+    "expected_chunk_id": "C06",
+    "hypothetical_answer": "A suspected security incident or compromised company system should be reported promptly through the response process."
+  },
+  {
+    "question": "2FA login?",
+    "expected_chunk_id": "C01",
+    "hypothetical_answer": "Use a second authentication factor in addition to your password when signing in to company systems."
+  },
+  {
+    "question": "receipt for claims?",
+    "expected_chunk_id": "C16",
+    "hypothetical_answer": "A reimbursement request should include proof of purchase and any required approval before Finance pays it."
+  }
+]

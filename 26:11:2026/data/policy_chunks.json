@@ -1,0 +1,82 @@
+[
+  {
+    "id": "C01",
+    "text": "Policy SEC-204: Employees must use multi-factor authentication when signing in to company systems."
+  },
+  {
+    "id": "C02",
+    "text": "Policy TRV-118: A meal expense is reimbursable up to $45 per day while traveling."
+  },
+  {
+    "id": "C03",
+    "text": "Policy PTO-031: Employees receive 18 paid vacation days each calendar year."
+  },
+  {
+    "id": "C04",
+    "text": "Policy RET-550: The company matches 4% of eligible employee retirement contributions."
+  },
+  {
+    "id": "C05",
+    "text": "Policy NAM-009: The data-protection contact is Maya Chen, Director of Privacy."
+  },
+  {
+    "id": "C06",
+    "text": "Policy INC-772: Report a suspected security incident within 24 hours using the incident portal."
+  },
+  {
+    "id": "C07",
+    "text": "To keep accounts safe, prove your identity with a second factor in addition to your password before accessing work tools."
+  },
+  {
+    "id": "C08",
+    "text": "When staff are away on business, the organization covers reasonable food costs, subject to the daily allowance."
+  },
+  {
+    "id": "C09",
+    "text": "Team members can take paid time away from work for rest and personal plans; unused leave follows the annual leave rules."
+  },
+  {
+    "id": "C10",
+    "text": "For retirement savings, the employer adds money in proportion to qualifying amounts workers put into their plan."
+  },
+  {
+    "id": "C11",
+    "text": "Questions about personal information and privacy should go to the person responsible for protecting customer data."
+  },
+  {
+    "id": "C12",
+    "text": "If you think company information or systems may have been compromised, notify the response team promptly through the reporting channel."
+  },
+  {
+    "id": "C13",
+    "text": "The office closes on listed public holidays; managers publish the yearly calendar in January."
+  },
+  {
+    "id": "C14",
+    "text": "New employees complete workplace safety orientation during their first week."
+  },
+  {
+    "id": "C15",
+    "text": "Customer records must be retained according to the schedule maintained by Legal and Compliance."
+  },
+  {
+    "id": "C16",
+    "text": "Reimbursement claims require a receipt and manager approval before Finance processes payment."
+  },
+  {
+    "id": "C17",
+    "text": "Policy WFH-206: Employees may work from home up to 3 days per week with manager approval; some roles may require more on-site time."
+  },
+  {
+    "id": "C18",
+    "text": "Policy HR-322: Employees must provide 30 calendar days of written notice before resigning from the company."
+  },
+  {
+    "id": "C19",
+    "text": "Policy LEAVE-104: Employees receive 10 paid sick days per year and should notify their manager before the start of a missed shift."
+  },
+  {
+    "id": "C20",
+    "text": "Policy PARENT-208: The primary caregiver may take 16 weeks of paid parental leave after a birth or adoption."
+  }
+]

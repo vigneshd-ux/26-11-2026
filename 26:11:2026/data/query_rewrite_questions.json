@@ -1,0 +1,92 @@
+[
+  {
+    "question": "wfh rules?",
+    "expected_chunk_id": "C17",
+    "rewrites": [
+      "What is the work from home policy for employees?",
+      "How many days per week can staff work remotely, and is manager approval required?",
+      "What are the rules for working from home and attending the office?"
+    ]
+  },
+  {
+    "question": "notice period",
+    "expected_chunk_id": "C18",
+    "rewrites": [
+      "How much written notice must an employee give before resigning?",
+      "What is the resignation notice requirement in calendar days?",
+      "How far in advance should I tell the company I am leaving my job?"
+    ]
+  },
+  {
+    "question": "sick days?",
+    "expected_chunk_id": "C19",
+    "rewrites": [
+      "How many paid sick leave days do employees receive each year?",
+      "What should I do when illness keeps me from working a shift?",
+      "What is the annual sick leave allowance and who must I notify?"
+    ]
+  },
+  {
+    "question": "parental leave",
+    "expected_chunk_id": "C20",
+    "rewrites": [
+      "How much paid leave can a parent take after a birth or adoption?",
+      "What paid time off is available to the primary caregiver?",
+      "How many weeks of parental leave does the company provide?"
+    ]
+  },
+  {
+    "question": "meal cap?",
+    "expected_chunk_id": "C02",
+    "rewrites": [
+      "What is the maximum reimbursable meal cost per day during business travel?",
+      "How much can employees claim for food expenses while traveling for work?",
+      "What is the daily allowance limit for travel meals?"
+    ]
+  },
+  {
+    "question": "401k match?",
+    "expected_chunk_id": "C04",
+    "rewrites": [
+      "What percentage does the employer match for employee retirement plan contributions?",
+      "How much money does the company add to a worker's retirement savings?",
+      "What is the company match rate for eligible 401(k) contributions?"
+    ]
+  },
+  {
+    "question": "privacy officer?",
+    "expected_chunk_id": "C05",
+    "rewrites": [
+      "Who is the company's data protection and privacy contact?",
+      "Which person should employees contact about personal information privacy?",
+      "Who is responsible for privacy questions and customer data protection?"
+    ]
+  },
+  {
+    "question": "report a breach",
+    "expected_chunk_id": "C06",
+    "rewrites": [
+      "How should I report a suspected company security incident?",
+      "Where do employees report a possible data or system breach?",
+      "What is the deadline and process for notifying the company about a security incident?"
+    ]
+  },
+  {
+    "question": "2FA login?",
+    "expected_chunk_id": "C01",
+    "rewrites": [
+      "What second authentication factor is required when signing in to company systems?",
+      "How do employees use two-factor authentication to access work accounts?",
+      "What login security step must be used in addition to a password?"
+    ]
+  },
+  {
+    "question": "receipt for claims?",
+    "expected_chunk_id": "C16",
+    "rewrites": [
+      "What documentation must accompany an employee reimbursement claim?",
+      "Do expense reimbursement requests need receipts and manager approval?",
+      "What must I submit before Finance pays an expense claim?"
+    ]
+  }
+]

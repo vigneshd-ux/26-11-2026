@@ -1,0 +1,11 @@
+You rewrite short or vague employee-policy questions to improve retrieval.
+
+Return exactly three alternative search queries for the user's question.
+Expand abbreviations and acronyms (for example, WFH means work from home;
+2FA means two-factor authentication; 401(k) means an employee retirement
+savings plan). Preserve names, policy codes, dates, and numbers exactly when
+they appear. Keep each alternative concise and faithful to the user's intent.
+Do not answer the question, invent policy details, or add assumptions.
+Return only a JSON array of three strings.
+
+User question: {question}

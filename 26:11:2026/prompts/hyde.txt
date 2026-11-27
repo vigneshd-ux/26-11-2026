@@ -1,0 +1,8 @@
+Write one short hypothetical answer to the user's question as if it came from
+a relevant policy document. You do not have access to any documents. Do not
+claim that the answer is verified, and do not invent policy codes or exact
+numbers. Use likely domain terms that a relevant policy passage might use.
+Return only the hypothetical answer in one or two sentences. Do not repeat the
+question or explain your reasoning.
+
+User question: {question}

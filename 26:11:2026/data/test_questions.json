@@ -1,0 +1,62 @@
+[
+  {
+    "type": "Exact",
+    "question": "What does policy SEC-204 require at sign-in?",
+    "expected_chunk_id": "C01"
+  },
+  {
+    "type": "Exact",
+    "question": "Under TRV-118, what is the meal limit per day?",
+    "expected_chunk_id": "C02"
+  },
+  {
+    "type": "Exact",
+    "question": "How many vacation days does PTO-031 provide?",
+    "expected_chunk_id": "C03"
+  },
+  {
+    "type": "Exact",
+    "question": "What match rate is specified in RET-550?",
+    "expected_chunk_id": "C04"
+  },
+  {
+    "type": "Exact",
+    "question": "Who is named in NAM-009 as Director of Privacy?",
+    "expected_chunk_id": "C05"
+  },
+  {
+    "type": "Exact",
+    "question": "What is the reporting deadline in INC-772?",
+    "expected_chunk_id": "C06"
+  },
+  {
+    "type": "Meaning",
+    "question": "How do I add another identity check beyond my password to protect my work account?",
+    "expected_chunk_id": "C07"
+  },
+  {
+    "type": "Meaning",
+    "question": "Will the company pay for food when I travel for work?",
+    "expected_chunk_id": "C08"
+  },
+  {
+    "type": "Meaning",
+    "question": "How much paid time off can I take each year to rest?",
+    "expected_chunk_id": "C09"
+  },
+  {
+    "type": "Meaning",
+    "question": "Does my employer contribute when I save for retirement?",
+    "expected_chunk_id": "C10"
+  },
+  {
+    "type": "Meaning",
+    "question": "Who should I contact about handling personal data safely?",
+    "expected_chunk_id": "C11"
+  },
+  {
+    "type": "Meaning",
+    "question": "What should I do if I suspect our systems have been breached?",
+    "expected_chunk_id": "C12"
+  }
+]
